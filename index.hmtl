@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>My Photoshoped Alter-ego</h1>
-<img src=“Alterego_photoshop.jpg”>
+<img src=“Alterego_photoshop.jpg” width="1920" height="1200">
 <p>Hope you like it</p>
 </body>
 </html>
