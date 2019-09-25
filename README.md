@@ -1,2 +1,2 @@
-# leoli4
+# Photoshop project
 Alter ego photoshop
